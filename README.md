@@ -334,6 +334,7 @@ A curated list of awesome AI Agent frameworks, libraries and software.
 
 ### Agent Frameworks and Runtimes
 
+* [grainulation/irrigator](https://github.com/grainulation/irrigator) - Multi-agent orchestration and pipeline runner using isolated git worktrees with sound verification loops.
 * [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 * [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 * [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
